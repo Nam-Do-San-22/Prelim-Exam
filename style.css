@@ -31,6 +31,7 @@ h3{
 	color:#11999E ;
     font-family: 'Montserrat', sans-serif;
     font-style: italic;
+    font-weight: normal;
 }
 
 .codeimg{
@@ -93,7 +94,7 @@ text-decoration:underline;
 
 .bottom {
 
-background:#89dbe6;
+background:#64c3cf;
 width: 100%;
 height: 22%;
 
@@ -131,24 +132,26 @@ margin:5%;
 .profile{
 margin-top: auto;
 
+
 }
 
 .profile-intro{
     font-family: 'Montserrat', sans-serif;
-
+    text-align: center;
 
 }
 
 
 p{
-    letter-spacing: normal;
-    padding:10px;
-    line-height: 2;
+    line-height: 1.8;
+padding:5px;
+text-align: justify;
+
 }
 
 .skills{
 text-align: left;
-margin: 15%;
+margin: 10%;
 margin-top: auto;
 
 }
@@ -156,8 +159,16 @@ margin-top: auto;
 
 .skill-row{
 
-    margin: 10%;
-    margin-top: auto;
+    
+    margin-top: 5%;
+
+}
+.contact{
+
+    text-align: center;
+}
+.c{
+    text-align: center;
 
 }
 .btn {
@@ -173,7 +184,7 @@ margin-top: auto;
     border-radius: 9px;
     font-family: 'Montserrat', sans-serif;
     font-style: italic;
-    font-weight: 550;
+    font-weight: 450;
     border-style: solid;
     border-color: rgb(76, 171, 248);
     border-width: 1px;
