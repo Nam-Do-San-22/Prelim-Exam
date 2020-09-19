@@ -151,16 +151,17 @@ text-align: justify;
 
 .skills{
 text-align: left;
-margin: 10%;
+margin:20%;
 margin-top: auto;
+
 
 }
 
 
 .skill-row{
 
-    
-    margin-top: 5%;
+    margin: 5%;
+    margin-top: 10%;
 
 }
 .contact{
