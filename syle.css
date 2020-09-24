@@ -9,7 +9,7 @@ text-align: center;
 .katawan{
 text-align: center;
 background-color: #f3f3f3;
-height: 150%;
+height: 140%;
 padding: 10px;
 margin-left: 100px;
 margin-right: 100px;
@@ -24,20 +24,18 @@ label{
     display: inline-block;
     text-align: right;
 }
-#place{
-    width: 180px;
-}
+
 .time{
-    margin-left:210px;
+    margin-left:180px;
     width: 250px;
     
     text-align: right;
 }
 .timee{
     padding: 5px;
-    margin-left:380px;
+    margin-left:280px;
     width: 250px;
-    width: 250px;
+    
 display: inline-block;
 text-align: justify;
 
@@ -45,16 +43,73 @@ text-align: justify;
 }
 .check{
     padding: 5px;
-    margin-left:380px;
+    margin-left:280px;
     width: 250px;
-    width: 250px;
+    
 display: inline-block;
 text-align: justify;
 }
 .checkk{
+    margin-left:180px;
+    width: 250px;
+    
+    text-align: right;
+}
+.comment{
+
     margin-left:210px;
     width: 250px;
     
     text-align: right;
 }
+
+.commentt{
+
+    padding: 5px;
+    margin-left:280px;
+    width: 250px;
+    
+display: inline-block;
+text-align: left;
+}
+input[type=text],textarea{
+	
+	padding: 10px;
+	border-radius: 5px;
+    width: 250px;
+}
+input[type=email]{
+    padding: 10px;
+    border-radius: 5px;
+    width: 250px;
+}
+input[type=number]{
+    padding: 10px;
+    border-radius: 5px;
+    width: 250px;
+}
+select{
+    padding: 10px;
+    border-radius: 5px;
+}
+.select{
+margin-right: 150px;
+}
+
+.a,textarea{
+    border-radius: 5px;
+    
+    margin-top: 10px;
+}
+.button{
+    background-color: rgb(60, 156, 212);
+    border-style: none;
+    padding:10px;
+    width: 100px;
+    border-radius: 10px;
+    color: white;
+}
+.button:hover{
+    background-color: rgb(4, 177, 245);
+
 }
