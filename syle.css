@@ -1,0 +1,60 @@
+body{
+background-color: #6ba2ce;
+margin: 3%;
+}
+h1{
+text-align: center;
+
+}
+.katawan{
+text-align: center;
+background-color: #f3f3f3;
+height: 150%;
+padding: 10px;
+margin-left: 100px;
+margin-right: 100px;
+border-radius: 10px;
+}
+.part2{
+    margin-right: 180px;
+}
+label{
+    padding: 5px;
+    width: 250px;
+    display: inline-block;
+    text-align: right;
+}
+#place{
+    width: 180px;
+}
+.time{
+    margin-left:210px;
+    width: 250px;
+    
+    text-align: right;
+}
+.timee{
+    padding: 5px;
+    margin-left:380px;
+    width: 250px;
+    width: 250px;
+display: inline-block;
+text-align: justify;
+
+
+}
+.check{
+    padding: 5px;
+    margin-left:380px;
+    width: 250px;
+    width: 250px;
+display: inline-block;
+text-align: justify;
+}
+.checkk{
+    margin-left:210px;
+    width: 250px;
+    
+    text-align: right;
+}
+}
